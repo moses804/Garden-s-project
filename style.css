@@ -1,0 +1,150 @@
+/* Universal selector */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Body styling */
+body {
+  background-color: pink;
+  color: #333;
+  line-height: 1.6;
+  padding: 20px;
+}
+.logo {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 10px;
+  border-radius: 50%;
+  border: 2px solid #2e8b57;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Header */
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  font-size: 2.5rem;
+  color: #2e8b57;
+}
+
+header p {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+/* Product categories */
+.product-category {
+  margin-bottom: 40px;
+}
+
+.product-category h2 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #2e8b57;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+/* Product grid */
+.products {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 15px;
+  list-style: none;
+  margin-top: 20px;
+  padding: 0;
+}
+
+/* Product card */
+.products li {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  background: #e0e6e0;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.products li:hover {
+  transform: scale(1.03);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Product name */
+.product-name {
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin-bottom: 6px;
+  display: block;
+}
+
+/* Price */
+.product-price {
+  color: #2e8b57;
+  font-weight: bold;
+  font-size: 1rem;
+}
+/* Contact section */
+.contact {
+  margin-top: 50px;
+  padding: 20px;
+  background: #f0f9f4;
+  border-radius: 8px;
+}
+
+.contact h2 {
+  margin-bottom: 15px;
+  color: #2e8b57;
+  text-align: center;
+}
+
+/* Form styling */
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.contact-form label {
+  font-weight: bold;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+  width: 100%;
+}
+
+.contact-form button {
+  background: #2e8b57;
+  color: #fff;
+  border: none;
+  padding: 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.contact-form button:hover {
+  background: #246b44;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 0.9rem;
+  color: #777;
+}
