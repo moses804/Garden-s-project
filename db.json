@@ -1,0 +1,312 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Grafted Hass Avocados",
+      "category": "Fruit Trees",
+      "price": 300,
+      "description": "A grafted Hass avocado tree, high-yielding and drought resistant."
+    },
+    {
+      "id": 2,
+      "name": "Grafted Fuete Avocado",
+      "category": "Fruit Trees",
+      "price": 300,
+      "description": "A grafted Fuerte avocado variety, known for creamy texture and flavor."
+    },
+    {
+      "id": 3,
+      "name": "Tree Tomato",
+      "category": "Fruit Trees",
+      "price": 100,
+      "description": "A fast-growing tree tomato plant, perfect for fresh juice."
+    },
+    {
+      "id": 4,
+      "name": "Guava",
+      "category": "Fruit Trees",
+      "price": 150,
+      "description": "A guava tree producing sweet and nutritious fruits."
+    },
+    {
+      "id": 5,
+      "name": "Lemon",
+      "category": "Fruit Trees",
+      "price": 150,
+      "description": "A lemon tree, ideal for fresh juice and culinary use."
+    },
+    {
+      "id": 6,
+      "name": "Oranges",
+      "category": "Fruit Trees",
+      "price": 150,
+      "description": "A sweet orange tree, rich in vitamin C."
+    },
+    {
+      "id": 7,
+      "name": "Tangerine",
+      "category": "Fruit Trees",
+      "price": 150,
+      "description": "A tangerine tree producing juicy, easy-to-peel fruits."
+    },
+    {
+      "id": 8,
+      "name": "Mangoes (Ngowe)",
+      "category": "Fruit Trees",
+      "price": 150,
+      "description": "Ngowe mango variety with large, sweet fruits."
+    },
+    {
+      "id": 9,
+      "name": "Mangoes (Kent)",
+      "category": "Fruit Trees",
+      "price": 150,
+      "description": "Kent mango tree, high-yielding with long shelf life."
+    },
+    {
+      "id": 10,
+      "name": "Mangoes (Tommy)",
+      "category": "Fruit Trees",
+      "price": 150,
+      "description": "Tommy mango variety, known for vibrant color and sweetness."
+    },
+    {
+      "id": 11,
+      "name": "Mangoes (Apple)",
+      "category": "Fruit Trees",
+      "price": 150,
+      "description": "Apple mango variety, firm and juicy fruits."
+    },
+    {
+      "id": 12,
+      "name": "Loquat",
+      "category": "Fruit Trees",
+      "price": 200,
+      "description": "A loquat tree producing small, sweet fruits."
+    },
+    {
+      "id": 13,
+      "name": "Pear",
+      "category": "Fruit Trees",
+      "price": 150,
+      "description": "A pear tree producing soft, juicy fruits."
+    },
+    {
+      "id": 14,
+      "name": "Peach",
+      "category": "Fruit Trees",
+      "price": 150,
+      "description": "A peach tree with sweet, fleshy fruits."
+    },
+    {
+      "id": 15,
+      "name": "Plum",
+      "category": "Fruit Trees",
+      "price": 150,
+      "description": "A plum tree producing sweet, tangy fruits."
+    },
+    {
+      "id": 16,
+      "name": "Apples (Wambugu)",
+      "category": "Fruit Trees",
+      "price": 1000,
+      "description": "Wambugu apple tree, a hardy and high-yielding variety."
+    },
+    {
+      "id": 17,
+      "name": "Passion Fruits",
+      "category": "Fruit Trees",
+      "price": 30,
+      "description": "A passion fruit vine producing aromatic fruits."
+    },
+    {
+      "id": 18,
+      "name": "Pawpaw",
+      "category": "Fruit Trees",
+      "price": 100,
+      "description": "A pawpaw tree producing sweet, tropical fruits."
+    },
+    {
+      "id": 19,
+      "name": "Strawberry",
+      "category": "Fruit Trees",
+      "price": 50,
+      "description": "A strawberry plant producing fresh red berries."
+    },
+    {
+      "id": 20,
+      "name": "Raspberry",
+      "category": "Fruit Trees",
+      "price": 100,
+      "description": "A raspberry plant producing tangy red berries."
+    },
+    {
+      "id": 21,
+      "name": "Blueberry",
+      "category": "Fruit Trees",
+      "price": 100,
+      "description": "A blueberry bush producing antioxidant-rich berries."
+    },
+    {
+      "id": 22,
+      "name": "Blackberry",
+      "category": "Fruit Trees",
+      "price": 100,
+      "description": "A blackberry bush producing dark, sweet fruits."
+    },
+    {
+      "id": 23,
+      "name": "Gooseberry",
+      "category": "Fruit Trees",
+      "price": 100,
+      "description": "A gooseberry plant with tangy, nutritious berries."
+    },
+    {
+      "id": 24,
+      "name": "Pomegranate",
+      "category": "Fruit Trees",
+      "price": 150,
+      "description": "A pomegranate tree producing antioxidant-rich fruits."
+    },
+    {
+      "id": 25,
+      "name": "Mulberry",
+      "category": "Fruit Trees",
+      "price": 200,
+      "description": "A mulberry tree producing sweet, dark berries."
+    },
+    {
+      "id": 26,
+      "name": "Sugarcane",
+      "category": "Fruit Trees",
+      "price": 50,
+      "description": "Sugarcane stalks for fresh juice and chewing."
+    },
+    {
+      "id": 27,
+      "name": "Herbs - Rosemary",
+      "category": "Herbs",
+      "price": 50,
+      "description": "A rosemary herb plant with aromatic leaves for cooking."
+    },
+    {
+      "id": 28,
+      "name": "Herbs - Lavender",
+      "category": "Herbs",
+      "price": 100,
+      "description": "A lavender plant used for fragrance and herbal tea."
+    },
+    {
+      "id": 29,
+      "name": "Herbs - Mint",
+      "category": "Herbs",
+      "price": 50,
+      "description": "A mint plant perfect for tea, juice, and garnishing."
+    },
+    {
+      "id": 30,
+      "name": "Herbs - Thyme",
+      "category": "Herbs",
+      "price": 50,
+      "description": "A thyme plant for culinary and medicinal use."
+    },
+    {
+      "id": 31,
+      "name": "Herbs - Basil",
+      "category": "Herbs",
+      "price": 50,
+      "description": "A basil plant with fresh leaves for sauces and salads."
+    },
+    {
+      "id": 32,
+      "name": "Herbs - Oregano",
+      "category": "Herbs",
+      "price": 50,
+      "description": "An oregano plant, a staple in Italian cooking."
+    },
+    {
+      "id": 33,
+      "name": "Herbs - Parsley",
+      "category": "Herbs",
+      "price": 50,
+      "description": "A parsley herb plant used for garnishing and flavoring."
+    },
+    {
+      "id": 34,
+      "name": "Herbs - Dill",
+      "category": "Herbs",
+      "price": 50,
+      "description": "A dill herb plant, perfect for salads and pickling."
+    },
+    {
+      "id": 35,
+      "name": "Vegetables - Spinach",
+      "category": "Vegetables",
+      "price": 50,
+      "description": "A spinach plant rich in iron and vitamins."
+    },
+    {
+      "id": 36,
+      "name": "Vegetables - Sukuma Wiki (Kale)",
+      "category": "Vegetables",
+      "price": 50,
+      "description": "A kale plant, staple leafy green in many meals."
+    },
+    {
+      "id": 37,
+      "name": "Vegetables - Cabbage",
+      "category": "Vegetables",
+      "price": 50,
+      "description": "A cabbage plant producing large leafy heads."
+    },
+    {
+      "id": 38,
+      "name": "Vegetables - Lettuce",
+      "category": "Vegetables",
+      "price": 50,
+      "description": "A lettuce plant, fresh and crisp for salads."
+    },
+    {
+      "id": 39,
+      "name": "Vegetables - Carrots",
+      "category": "Vegetables",
+      "price": 50,
+      "description": "Carrot plants producing sweet orange roots."
+    },
+    {
+      "id": 40,
+      "name": "Vegetables - Onions",
+      "category": "Vegetables",
+      "price": 50,
+      "description": "Onion plants for everyday cooking."
+    },
+    {
+      "id": 41,
+      "name": "Vegetables - Tomatoes",
+      "category": "Vegetables",
+      "price": 50,
+      "description": "Tomato plants producing juicy red fruits."
+    },
+    {
+      "id": 42,
+      "name": "Vegetables - Broccoli",
+      "category": "Vegetables",
+      "price": 100,
+      "description": "A broccoli plant rich in vitamins and minerals."
+    },
+    {
+      "id": 43,
+      "name": "Vegetables - Cauliflower",
+      "category": "Vegetables",
+      "price": 100,
+      "description": "A cauliflower plant with nutritious white heads."
+    },
+    {
+      "id": 44,
+      "name": "Vegetables - Eggplant",
+      "category": "Vegetables",
+      "price": 100,
+      "description": "An eggplant plant producing purple vegetables."
+    }
+  ]
+}
